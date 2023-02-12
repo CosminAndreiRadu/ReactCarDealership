@@ -1,3 +1,11 @@
+# Project Requirements:
+- Sa aiba mai multe rute  2p - [x]
+- Sa se foloseasca componente reutilizabile 2p (button/footer/contactbar) - [x]
+- Sa se comunice intre componente 2p (communication between CarList and Car - sending images and text using props) - [x]
+- Rute publice si private 1p (logged in admin can access all pages, logged in user cannot access accounts page, user cannot access accounts and shop pages) - [x]
+- Sa fie cel putin o pagina cu un form ( login/register) 2p (Register + Login forms) - [x]
+- Firebase sau orice alt mediu de backend 1p (for storing accounts) - [x]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
